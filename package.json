@@ -1,0 +1,44 @@
+{
+  "name": "front-sismonitoramento",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "bootstrap": "^4.5.3",
+    "bootstrap-vue": "^2.19.0",
+    "chart.js": "^2.9.4",
+    "core-js": "^3.6.5",
+    "crypto-js": "^4.0.0",
+    "katavorio": "^1.4.11",
+    "socket.io-client": "^2.3.1",
+    "v-drag": "^2.1.3",
+    "vue": "^2.6.12",
+    "vue-chartjs": "^3.5.1",
+    "vue-draggable": "^2.0.6",
+    "vue-router": "^3.4.4",
+    "vue-sorted-table": "^1.2.0",
+    "vuetify": "^2.3.10",
+    "vuex": "^3.5.1"
+  },
+  "devDependencies": {
+    "@mdi/font": "^5.6.55",
+    "@vue/cli-plugin-babel": "~4.2.0",
+    "@vue/cli-plugin-eslint": "~4.2.0",
+    "@vue/cli-plugin-router": "~4.2.0",
+    "@vue/cli-plugin-vuex": "~4.2.0",
+    "@vue/cli-service": "~4.2.0",
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.7.2",
+    "eslint-plugin-vue": "^6.1.2",
+    "sass": "^1.26.11",
+    "sass-loader": "^8.0.0",
+    "vue-cli-plugin-vuetify": "^2.0.7",
+    "vue-template-compiler": "^2.6.12",
+    "vuetify-loader": "^1.6.0"
+  }
+}
